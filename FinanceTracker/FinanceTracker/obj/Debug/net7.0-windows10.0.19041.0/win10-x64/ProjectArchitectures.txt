@@ -1,0 +1,1 @@
+C:\Users\lisaw\Git\FinanceTracker\FinanceTracker\FinanceTracker\FinanceTracker.csproj;x64
